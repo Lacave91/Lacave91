@@ -1,6 +1,6 @@
 # 👋 Hola! I'm Alvaro Lacave
 
-Former sales guy turned AI enthusiast — I used to pitch products, now I train models.  
+Former sales professional turned AI enthusiast — I used to pitch products, now I train models.  
 Bootcamp graduate from **Ironhack** in **AI Engineering**, with a passion for building smart, useful, and ethical tech.
 
 ---
