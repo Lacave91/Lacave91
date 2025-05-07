@@ -11,7 +11,7 @@ Bootcamp graduate from **Ironhack** in **AI Engineering**, with a passion for bu
 - 🛠️ Currently working on personal projects and sharpening my Python & ML skills
 - 🚀 Open to junior roles, or collaborations in AI/ML/Data
 - 🏄 In my spare time, I love surfing, diving and travelling.
-- 📫 How to reach me: [GitHub](https://github.com/Lacave91) - [Email](mailto:alvarolacave@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📫 How to reach me: [GitHub](https://github.com/Lacave91) - [Email](mailto:alvarolacave@hotmail.com) - [LinkedIn](https://www.linkedin.com/in/alvaro-lacave/)
 ---
 Take a look of my last projects:
 
