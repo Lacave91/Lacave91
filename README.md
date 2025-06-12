@@ -15,6 +15,8 @@ Bootcamp graduate from **Ironhack** in **AI Engineering**, with a passion for bu
 ---
 Take a look of my last projects:
 
+1. [ALMA_chatbot](https://github.com/Lacave91/ALMA_chatbot):  *Meet our helpful chatbot ALMA
+
 <!--
 **Lacave91/Lacave91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
