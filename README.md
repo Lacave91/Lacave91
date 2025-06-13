@@ -20,7 +20,7 @@ Take a look of my last projects:
 Say hello to ALMA — your emotionally intelligent, video-savvy health assistant. It speaks both English and Spanish, understands your wellness questions, and replies with precision (and compassion). Powered by embeddings and YouTube transcript analysis, ALMA not only talks back — it points you to exactly where in a video the answer lives.
 
 
-2. **[Robo-project](https://github.com/Lacave91/Robo-project/tree/main):** *Amazon reviews got you like 😩? Let the robot read for you.*
+2. **[Robo-project](https://github.com/Lacave91/Robo-project):** *Amazon reviews got you like 😩? Let the robot read for you.*
    
 This isn’t just another NLP dashboard. Robo digs through thousands of product reviews, clusters them into themes, and uses LLMs to give you the TL;DR on what really matters. Want to know if that air fryer is worth it? Robo's got the receipts.
 
